@@ -1,6 +1,5 @@
 //////////////////////////////////////////////////////////////
-// C+= with YOLOv8 TensorRT + CUDA + OpenCV
-// High FPS Traffic Detection System
+// C++ Vehicle Detection and Vehicle Counting using YOLOv8 TensorRT + CUDA + OpenCV
 //////////////////////////////////////////////////////////////
 
 #include <opencv2/opencv.hpp>
